@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Successfully Deployed......SSH...</h2>
+<h2>Tomcat sent me here...</h2>
 </body>
 </html>
